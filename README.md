@@ -1,12 +1,12 @@
 # states_fiscal_ranking_us
 
-https://francis-boafo-states-fiscal-ranking-exploration.streamlit.app/
-
 ## Exploring the States Fiscal Ranking in the US between 2006 and 2016
 ### The Data explores three areas
 * The Population of US by States
 * The Per-capita income of the working population by States
 * Overall Ranking of the Fiscal Performance of Each State with number 1 being best performing and number 50 being least performing
+
+To view the live app go to https://francis-boafo-states-fiscal-ranking-exploration.streamlit.app/
 
 #### This data is relevant for the following reasons
 ##### 1) Government
