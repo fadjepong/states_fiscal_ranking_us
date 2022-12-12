@@ -1,6 +1,8 @@
 # States Fiscal Ranking_US
+
 ## Exploring the States Fiscal Ranking in the US between 2006 and 2016
-#### Author: Francis Adjepong Boafo
+## Author: Francis Adjepong Boafo
+
 ### The Data explores three areas
 * The Population of US by States
 * The Per-capita income of the working population by States
