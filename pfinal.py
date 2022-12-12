@@ -35,8 +35,8 @@ df_filtered= load_data(year_to_filter)
 df_filtered=pd.DataFrame(df_filtered)
 selection_list =pd.array(data=['population','overallrank','person_income_per_capita'])
 
-name_of_selectbox = st.sidebar.selectbox('Select Value for map', selection_list)
-tab1, tab2, tab3 = st.tabs(['Data Overview','Bar Chart','Map visualizatoin'])
+name_of_selectbox = st.sidebar.selectbox('Select Value for Bar Chart and Map', selection_list)
+tab1, tab2, tab3 = st.tabs(['Data Overview','Bar Chart','Map visualization'])
 with tab1:
     if st.checkbox('Show raw data'):
        
