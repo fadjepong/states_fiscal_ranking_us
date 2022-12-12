@@ -13,9 +13,9 @@ To view the live app go to https://francis-boafo-states-fiscal-ranking-explorati
         The US government uses these data to help with the alocation of federal budget 
         as well as Emergency Assistance when planning budget alocation.
         Infrastructure development is also heavily dependent on the population need and the financial position of the states. 
-        Hence these information will help in planning the infrastructure development for the various states.
+        Hence this information will help in planning the infrastructure development for the various states.
 ##### 2) Citizens
-        This Data is also applicable to the citezens of the US as people plan for their families and where they wish to live.
+        This Data is also applicable to the citizens of the US as people plan for their families and where they wish to live.
         It also helps with identifying places of higher income based on the Per-capita income of the working population.
         With the rising prices of goods and services, people are looking for ways to make higher income and therefore this data
         could be useful.        
